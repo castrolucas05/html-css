@@ -1,0 +1,19 @@
+@charset "utc-8";
+body{
+    font-family: sans-serif;
+    background-image: linear-gradient(to right, rgb(131, 186, 186), rgb(248, 251, 251));
+}
+main{
+    width: 600px;
+    text-align: justify;
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.475);
+    background-attachment: fixed;
+    background-color: rgba(240, 248, 255, 0.759);
+
+}
+h1, h2{
+    font-family: 'Times New Roman', Times, serif;
+}
