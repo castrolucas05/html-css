@@ -112,7 +112,8 @@ body{
 }
 
 .conteudo-principal-escrito-imagem{
-    height: 430px;
+    width: 100%;
+    max-height: 430px;
 }
 
 .conteudo-secundario{
