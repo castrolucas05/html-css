@@ -1,8 +1,6 @@
-@charset "UTF-8";
 
+/* declaração geral*/
 @media all {
-
-    /* declaração geral*/
     * {
         margin: 0px;
         padding: 0px;
